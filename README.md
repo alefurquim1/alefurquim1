@@ -4,7 +4,7 @@
 
 🔐 Cybersecurity & IT Analyst  
 🛡️ Segurança da Informação | Infraestrutura | Ethical Hacking  
-📚 Criador do [bit01tec](https://bit01tecnologia.wordpress.com) — conteúdo sobre cibersegurança, tecnologia e dicas práticas ---
+📚 Criador do [bit01tec](https://bit01tec.com.br) — conteúdos sobre cibersegurança, tecnologia e dicas práticas —
 
 ## 🚀 Sobre mim
 
