@@ -59,7 +59,7 @@ Atualmente direcionado para **Cibersegurança**, com foco em:
 
 ### 🔐 Fortinet
 
-<a href="https://training.fortinet.com/](https://training.fortinet.com/pluginfile.php/1/tool_certificate/issues/1778088042/8382386076AC.pdf">
+<a href="https://training.fortinet.com/pluginfile.php/1/tool_certificate/issues/1778088042/8382386076AC.pdf">
 <img src="https://img.shields.io/badge/Cybersecurity-Fundamentals-EE3124?style=for-the-badge&logo=fortinet&logoColor=white"/>
 </a>
 
