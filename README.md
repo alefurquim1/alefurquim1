@@ -10,7 +10,7 @@
 
 ## 🚀 Sobre mim
 
-Profissional de Tecnologia da Informação com atuação desde **2006**, com ampla experiência em ambientes corporativos e suporte técnico em empresas de grande porte.
+Profissional de Tecnologia da Informação com atuação desde **2006**, com ampla experiência em ambientes corporativos e suporte técnico em empresas.
 
 Atualmente direcionado para **Cibersegurança**, com foco em:
 - Segurança ofensiva e defensiva  
