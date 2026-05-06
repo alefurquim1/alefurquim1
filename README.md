@@ -49,25 +49,48 @@ Atualmente direcionado para **Cibersegurança**, com foco em:
 
 ---
 
-## 📜 Certificações
+## 🏆 Certificações & Credenciais
 
-🔐 **Fortinet Certified Fundamentals in Cybersecurity**  
-- Fundamentos de segurança, ameaças e proteção de redes  
+<div align="center">
 
-🛡️ **Cisco Ethical Hacker**  
-- Técnicas de pentest, exploração e análise de vulnerabilidades  
+<table>
+<tr>
+<td align="center" width="300">
 
-<p align="center">
+### 🔐 Fortinet
 
 <a href="https://training.fortinet.com/">
-  <img src="https://img.shields.io/badge/Fortinet-Cybersecurity%20Fundamentals-EE3124?style=for-the-badge&logo=fortinet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cybersecurity-Fundamentals-EE3124?style=for-the-badge&logo=fortinet&logoColor=white"/>
 </a>
+
+<br>
+
+**Certified Fundamentals in Cybersecurity**
+
+Fundamentos de segurança, proteção de redes e análise de ameaças.
+
+</td>
+
+<td align="center" width="300">
+
+### 🛡️ Cisco
 
 <a href="https://www.cisco.com/">
-  <img src="https://img.shields.io/badge/Cisco-Ethical%20Hacker-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ethical-Hacker-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 </a>
 
-</p>
+<br>
+
+**Ethical Hacker**
+
+Pentest, exploração e identificação de vulnerabilidades.
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
