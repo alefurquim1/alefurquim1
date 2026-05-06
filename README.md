@@ -35,8 +35,8 @@ Atualmente direcionado para **Cibersegurança**, com foco em:
 ## 🛠️ Stack & Ferramentas
 
 ### 💻 Sistemas
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 
 ### 🔐 Segurança & Redes
 ![Firewall](https://img.shields.io/badge/Firewall-FF6F00?style=for-the-badge)
