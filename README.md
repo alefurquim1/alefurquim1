@@ -87,7 +87,6 @@ Atualmente direcionado para **Cibersegurança**, com foco em:
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=alefurquim1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alefurquim1&layout=compact&theme=tokyonight"/>
 
 <img src="https://streak-stats.demolab.com?user=alefurquim1&theme=tokyonight&hide_border=true"/>
