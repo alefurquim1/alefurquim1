@@ -129,7 +129,7 @@ Atualmente focado em **Cibersegurança**, atuando na interseção entre:
 ## 🌐 Conteúdo & Presença
 
 🔗 LinkedIn: https://linkedin.com/in/alefurquim  
-🔗 Blog: https://bit01tecnologia.wordpress.com  
+🔗 Blog: https://bit01tec.wordpress.com  
 🔗 Facebook: https://facebook.com/bit01tec  
 
 📢 Conteúdos sobre:
