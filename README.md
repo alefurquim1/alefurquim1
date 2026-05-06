@@ -120,9 +120,7 @@ Atualmente focado em **Cibersegurança**, atuando na interseção entre:
 
 <div align="center">
   
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alefurquim1&show_icons=true&theme=tokyonight"/>
-
-<img src="https://streak-stats.demolab.com?user=alefurquim1&theme=tokyonight&hide_border=true"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=alefurquim1&theme=transparent&locale=pt_BR)](https://git.io/streak-stats)
 
 </div>
 
