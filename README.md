@@ -1,6 +1,8 @@
 # 👨‍💻 Alexandre Furquim  
 
-<img src="https://media.giphy.com/media/sk6yL9EGVeAcE/giphy.gif" width="180px"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="600px"/>
+</p>
 
 🔐 Cybersecurity & IT Analyst  
 🛡️ Segurança da Informação | Infraestrutura | Ethical Hacking  
