@@ -75,7 +75,7 @@ Fundamentos de segurança, proteção de redes e análise de ameaças.
 
 ### 🛡️ Cisco
 
-<a href="[https://www.credly.com/badges/28f0a52b-3e0e-4eb1-8d57-aab734912de4]">
+<a href="https://www.credly.com/badges/28f0a52b-3e0e-4eb1-8d57-aab734912de4">
 <img src="https://img.shields.io/badge/Ethical-Hacker-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 </a>
 
