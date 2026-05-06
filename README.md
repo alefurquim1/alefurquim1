@@ -70,14 +70,16 @@ Atualmente direcionado para **Cibersegurança**, com foco em:
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=alexandrefurquiminfo&show_icons=true&theme=dark"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrefurquiminfo&layout=compact&theme=dark"/>
-</p>
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=alexandrefurquiminfo&theme=dark&hide_border=true"/>
-</p>
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=alefurquim1&show_icons=true&theme=tokyonight"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alefurquim1&layout=compact&theme=tokyonight"/>
+
+<img src="https://streak-stats.demolab.com?user=alefurquim1&theme=tokyonight"/>
+
+</div>
 
 ---
 
