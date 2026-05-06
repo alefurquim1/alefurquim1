@@ -37,7 +37,6 @@ Atualmente direcionado para **Cibersegurança**, com foco em:
 ### 💻 Sistemas
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Systems%20%26%20Hardening-000000?style=for-the-badge&logo=linux)
 
 ### 🔐 Segurança & Redes
 ![Firewall](https://img.shields.io/badge/Firewall-FF6F00?style=for-the-badge)
